@@ -1,0 +1,40 @@
+D:\petar\GPI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+D:\petar\GPI\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+D:\petar\GPI\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\pesho\Desktop\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\pesho\Desktop\Version5\bin\Debug\Draw.exe
+C:\Users\pesho\Desktop\Version5\bin\Debug\Draw.pdb
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.MainForm.resources
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.exe
+C:\Users\pesho\Desktop\Version5\obj\Debug\Draw.pdb
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\bin\Debug\Draw.exe
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\bin\Debug\Draw.pdb
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.MainForm.resources
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.exe
+C:\Users\pesho\Desktop\ПетърМаламов 1801321031,в екип с 1801321017\obj\Debug\Draw.pdb
